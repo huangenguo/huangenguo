@@ -3,4 +3,4 @@
 
 [![](https://komarev.com/ghpvc/?username=huangenguo)](https://github.com/antonkomarev/github-profile-views-counter)
 
-![Metrics](https://metrics.lecoq.io/huangenguo?template=classic&isocalendar=1&gists=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
+![Metrics](https://github.com/huangenguo/huangenguo/blob/master/github-metrics.svg)
