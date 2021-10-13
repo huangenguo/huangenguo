@@ -3,4 +3,4 @@
 
 [![](https://komarev.com/ghpvc/?username=huangenguo)](https://github.com/antonkomarev/github-profile-views-counter)
 
-![Metrics](https://github.com/huangenguo/huangenguo/blob/master/github-metrics.svg)
+![Metrics](https://github.com/huangenguo/huangenguo/blob/main/github-metrics.svg)
