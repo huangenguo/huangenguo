@@ -7,3 +7,4 @@
   <a href="https://huangenguo.github.io">
     <img src="https://img.shields.io/badge/website-huangenguo.github.io-1BC?logo=Jekyll&logoColor=white&style=flat-square" />
   </a>
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
